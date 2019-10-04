@@ -10,3 +10,5 @@ API Mini Project 5.4.3
 
 Frequentist Statistics 8.1
 
+Bootstrap Inference 8.2
+
