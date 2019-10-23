@@ -12,3 +12,9 @@ Frequentist Statistics 8.1
 
 Bootstrap Inference 8.2
 
+### Ch 10 Machine Learning 
+
+Linear Regression 10.1 
+
+Logistic Regression 10.1
+
