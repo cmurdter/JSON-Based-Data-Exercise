@@ -18,3 +18,5 @@ Linear Regression 10.1
 
 Logistic Regression 10.1
 
+Clustering 10.5
+
